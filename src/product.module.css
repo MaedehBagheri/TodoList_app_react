@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    justify-content: space-between;
+    width: 47rem;
+  border: 2px solid #A8A29E;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+    padding: 9px 8px;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.btn{
+    border: none;
+    color: white;
+    background-color:#A8A29E ;
+    border-radius: 5px;
+    padding: 4px 9px;
+    }
